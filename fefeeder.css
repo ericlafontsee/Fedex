@@ -1,0 +1,30 @@
+.wh_header {
+    background-color: #640098;
+}
+
+.wh_main_page .wh_search_input {
+    background-color: #640098;
+    background-image: url();
+}
+
+.wh_search_input {
+    background-color: #640098;
+    background-image: url();
+}
+
+.wh_footer {
+    background-color: #FF6300;
+}
+
+.wh_search_button {
+    background-color: #FF6300;
+}
+
+.booklibrary {
+    display: block;
+    font-size: large;
+}
+
+.mainbooktitle {
+    font-size:large;
+}
